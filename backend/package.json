@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vite-dotnet": "^0.2.16"
+  }
+}

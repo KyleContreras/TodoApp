@@ -1,0 +1,58 @@
+import {ChangeEvent, useState} from 'react';
+
+interface Todo {
+    id: number;
+    todo: string;
+    is_complete: boolean;
+}
+
+function FindTodo() {
+    const [todoId, setTodoId] = useState('');
+    const [todo, setTodo] = useState<Todo | null>(null);
+
+    const handleInputChange = (event: ChangeEvent<HTMLInputElement>) => {
+        setTodoId(event.target.value);
+    };
+
+    const handleSubmit = async (event: ChangeEvent<HTMLFormElement>) => {
+        event.preventDefault();
+
+        try {
+            const response = await fetch(`http://localhost:5174/api/Api/${todoId}`);
+            if (response.ok) {
+                const data = await response.json();
+                setTodo(data);
+            } else {
+                setTodo(null);
+                console.error(`Todo with ID ${todoId} not found.`);
+            }
+        } catch (error) {
+            console.error(`Error finding todo with ID ${todoId}:`, error);
+        }
+    };
+
+    return (
+        <div>
+            <form onSubmit={handleSubmit}>
+                <input
+                    type="number"
+                    value={todoId}
+                    onChange={handleInputChange}
+                    placeholder="Todo ID"
+                    required
+                />
+                <button type="submit">Find a todo</button>
+            </form>
+            {todo && (
+                <div>
+                    <h2>Todo Details:</h2>
+                    <p>ID: {todo.id}</p>
+                    <p>Todo: {todo.todo}</p>
+                    <p>Complete: {todo.is_complete ? 'Yes' : 'No'}</p>
+                </div>
+            )}
+        </div>
+    );
+}
+
+export default FindTodo;

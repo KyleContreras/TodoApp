@@ -1,0 +1,849 @@
+P:\TodoApi\TodoApi\bin\Debug\net7.0\appsettings.Development.json
+P:\TodoApi\TodoApi\bin\Debug\net7.0\appsettings.json
+P:\TodoApi\TodoApi\bin\Debug\net7.0\TodoApi.exe
+P:\TodoApi\TodoApi\bin\Debug\net7.0\TodoApi.deps.json
+P:\TodoApi\TodoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
+P:\TodoApi\TodoApi\bin\Debug\net7.0\TodoApi.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\TodoApi.pdb
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfoInputs.cache
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfo.cs
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CoreCompileInputs.cache
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+P:\TodoApi\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+P:\TodoApi\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApi.props
+P:\TodoApi\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+P:\TodoApi\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+P:\TodoApi\TodoApi\obj\Debug\net7.0\staticwebassets.pack.json
+P:\TodoApi\TodoApi\obj\Debug\net7.0\staticwebassets.build.json
+P:\TodoApi\TodoApi\obj\Debug\net7.0\staticwebassets.development.json
+P:\TodoApi\TodoApi\obj\Debug\net7.0\scopedcss\bundle\TodoApi.styles.css
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.dll
+P:\TodoApi\TodoApi\obj\Debug\net7.0\refint\TodoApi.dll
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.pdb
+P:\TodoApi\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
+P:\TodoApi\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Azure.Core.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Azure.Identity.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Humanizer.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Build.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.Common.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.Configuration.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.Frameworks.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.LibraryModel.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.Packaging.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.ProjectModel.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.Protocol.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\NuGet.Versioning.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.CodeDom.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Composition.Convention.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Composition.Hosting.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Composition.Runtime.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Composition.TypedParts.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Memory.Data.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\af\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ar\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\az\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\bg\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\cs\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\da\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\de\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\el\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\es\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fa\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\he\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\hr\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\hu\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\hy\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\id\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\is\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\it\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ja\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ku\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\lv\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\mt\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\nb\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\nl\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pl\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pt\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ro\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ru\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\sk\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\sl\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\sr\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\sv\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\tr\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\uk\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\vi\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+P:\TodoApi\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\appsettings.json
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\TodoApi.exe
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\TodoApi.deps.json
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\TodoApi.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\TodoApi.pdb
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sleep\Todo App\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfo.cs
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.dll
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\refint\TodoApi.dll
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.pdb
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
+C:\Users\sleep\Todo App\backend\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\appsettings.json
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\TodoApi.exe
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\TodoApi.deps.json
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\TodoApi.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\TodoApi.pdb
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfo.cs
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\refint\TodoApi.dll
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.pdb
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
+C:\Users\sleep\TodoApp\backend\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll

@@ -1,0 +1,45 @@
+import {ChangeEvent, useState} from 'react';
+
+function DeleteTodo() {
+    const [todoId, setTodoId] = useState('');
+
+    const handleInputChange = (event: ChangeEvent<HTMLInputElement>) => {
+        setTodoId(event.target.value);
+    };
+
+    const handleSubmit = async(event: ChangeEvent<HTMLFormElement>) => {
+        event.preventDefault();
+
+        try {
+            const response = await fetch(`http://localhost:5174/api/Api/${todoId}`, {
+                method: 'DELETE',
+            });
+
+            if(response.ok) {
+                console.log(`Todo ${todoId} successfully deleted.`);
+            } else {
+                console.error(`Deletion of todo ${todoId} failed.`);
+            }
+        } catch(error) {
+            console.error('An error occurred while trying to delete todo ${todoId}:', error);
+        }
+    };
+
+    return (
+        <div>
+            <form onSubmit={handleSubmit}>
+                <input
+                    type="number"
+                    value={todoId}
+                    onChange={handleInputChange}
+                    placeholder="Todo ID"
+                    required
+                />
+                <button type="submit">Delete a todo</button>
+            </form>
+        </div>
+    );
+}
+
+export default DeleteTodo;
+
