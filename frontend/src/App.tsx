@@ -3,41 +3,27 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faLayerGroup, faSquarePlus } from '@fortawesome/free-solid-svg-icons';
+
 import CreateTodo from "./Components/CreateTodo/CreateTodo.tsx";
 import SeeAllTodos from "./Components/SeeAllTodos/SeeAllTodos.tsx";
-//import FindTodo from "./Components/FindTodo/FindTodo.tsx.old";
-
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-    faLayerGroup,
-    //faMagnifyingGlass,
-    faSquarePlus,
-} from '@fortawesome/free-solid-svg-icons';
+import EditTodo from "./Components/EditTodo/EditTodo.tsx"
 
 function App() {
   const [showCreateForm, setShowCreateForm] = useState(false);
   const [showSeeAllForm, setShowSeeAllForm] = useState(false);
-  //const [showFindForm, setShowFindForm] = useState(false);
 
   const toggleForm = (form: string) => {
       switch (form) {
           case 'create':
               setShowCreateForm(true);
               setShowSeeAllForm(false);
-             //setShowFindForm(false);
               break;
           case 'seeAll':
               setShowSeeAllForm(true);
               setShowCreateForm(false);
-              //setShowFindForm(false);
               break;
-              /*
-          case 'find':
-              setShowFindForm(true);
-              setShowSeeAllForm(false);
-              setShowCreateForm(false);
-              break;
-              */
       }
   };
 
@@ -58,15 +44,9 @@ function App() {
         <div className="aTodo"  id="seeAllTodos" onClick={() => toggleForm('seeAll')}>
             <FontAwesomeIcon icon={faLayerGroup} size="2x" title="See All Todos"/>
         </div>
-            {/*
-        <div className="aTodo"  id="findTodo" onClick={() => toggleForm('find')}>
-            <FontAwesomeIcon icon={faMagnifyingGlass} size="2x" title="Find a Todo"/>
-        </div>
-            */}
       </div>
       {showCreateForm && <CreateTodo/>}
-      {showSeeAllForm && <SeeAllTodos/>}
-        {/*{showFindForm && <FindTodo/>} */}
+      {showSeeAllForm && <SeeAllTodos />}
     </div>
   )
 }

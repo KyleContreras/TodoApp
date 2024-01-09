@@ -1,0 +1,29 @@
+#editTodo {
+    color: goldenrod;
+    margin: 10px;
+
+}
+
+#editTodo:hover {
+    filter: brightness(1.5);
+    cursor: pointer;
+}
+
+#deleteTodo {
+    color: red;
+    margin: 10px;
+}
+
+#deleteTodo:hover {
+    filter: brightness(1.5);
+    cursor: pointer;
+}
+
+.todo-item {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #323334;
+}

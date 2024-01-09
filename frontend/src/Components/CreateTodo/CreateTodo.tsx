@@ -23,6 +23,8 @@ function CreateTodo() {
 
             if (response.ok) {
                 console.log('Todo created successfully!');
+                setTodo('');
+                setIsComplete(false);
             } else {
                 console.error('Failed to create todo:', response.statusText);
             }
